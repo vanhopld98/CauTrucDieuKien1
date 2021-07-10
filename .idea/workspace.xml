@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8927f535-bcba-45ce-9a3f-ceab49a1dad7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai 1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bai2.html">
+  <component name="RunManager" selected="JavaScript Debug.add.html">
+    <configuration name="add.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cấu Trúc Điều Kiện 1/add.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="bai 1.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cấu Trúc Điều Kiện 1/bai 1.1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -50,6 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.add.html" />
         <item itemvalue="JavaScript Debug.bai2.html" />
         <item itemvalue="JavaScript Debug.bai 1.1.html" />
       </list>
@@ -63,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625814333855</updated>
-      <workItem from="1625814335083" duration="7546000" />
+      <workItem from="1625814335083" duration="9669000" />
     </task>
     <servers />
   </component>
